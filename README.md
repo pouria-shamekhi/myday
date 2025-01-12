@@ -1,5 +1,3 @@
-# myday
-GUI todolist app
 
 # MyDay - A To-Do List Application with Calendar
 
