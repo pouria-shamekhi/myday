@@ -1,0 +1,2 @@
+# myday
+GUI todolist app
